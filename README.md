@@ -2,10 +2,6 @@
 
 Welcome to the **Material3 Components** repository! This repository is dedicated to showcasing various components of Material Design 3 using Kotlin.
 
-## Overview
-
-This repository contains several components of Material Design 3 using Jetpack Compose.
-
 ## YouTube Playlist
 
 To complement this repository, we have also created a detailed YouTube playlist where each component of Material Design 3 is explained in depth. 
