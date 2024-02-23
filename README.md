@@ -10,3 +10,8 @@ To complement this repository, we have also created a detailed YouTube playlist 
 
 ![Screenshot (159)](https://github.com/CodeInKotLang/Material_3_Components/assets/110901093/47584831-e773-4259-ac0c-e11420567e62)
 
+
+## Support
+
+If you find the content valuable, consider [buying me a coffee](https://ko-fi.com/mohammadarif) to support the creation of more content.
+
