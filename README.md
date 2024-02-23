@@ -1,6 +1,6 @@
-# Material3 Components
+# Material Design 3 Components
 
-Welcome to the **Material3 Components** repository! This repository is dedicated to showcasing various components of Material Design 3 using Kotlin.
+Welcome to the **Material3 Components** repository! This repository is dedicated to showcasing various components of Material Design 3 using Jetpack Compose.
 
 ## YouTube Playlist
 
@@ -8,4 +8,5 @@ To complement this repository, we have also created a detailed YouTube playlist 
 
 🎥 [Material Design 3 Components with Jetpack Compose](https://youtube.com/playlist?list=PL1b73-6UjePAGw5BsVvHzPXTHTWhh6cXi)
 
-**Description:** In this Android development tutorial playlist, we dive deep into the different components of Material Design 3 with Jetpack Compose. Perfect for beginners and experienced developers alike, we'll explore how to implement and customize the Badge to enhance your Android app's UI/UX.
+![Screenshot (159)](https://github.com/CodeInKotLang/Material_3_Components/assets/110901093/47584831-e773-4259-ac0c-e11420567e62)
+
